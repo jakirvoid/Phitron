@@ -1,0 +1,20 @@
+N = 1000
+
+
+
+
+
+Constant:    O(1)             -> 1         
+Linear:      O(N)             -> 1000      
+Logarithmn:  O(logN)          -> 10        
+sqrt:        O(sqrtN)         -> 32        
+Quadratic:   O(N*N)           -> 1000000
+linearithm:  O(NlogN)         -> 10000  
+
+Constant:    O(1)             -> 1
+Logarithmn:  O(logN)          -> 2 
+sqrt:        O(sqrtN)         -> 3
+Linear:      O(N)             -> 4
+linearithm:  O(NlogN)         -> 5
+Quadratic:   O(N*N)           -> 6
+
